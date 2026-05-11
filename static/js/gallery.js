@@ -301,13 +301,12 @@ function updateInfoPanel(basePath, sd) {
   // Metrics table
   const metricsEl = document.getElementById('gallery-metrics');
   if (metricsEl && sd.algorithms && sd.algorithms.length > 0) {
-    let html = '<table><thead><tr><th>Method</th><th>IoU ↑</th><th>F1 ↑</th><th>Trans. ↓</th><th>Rot. ↓</th></tr></thead><tbody>';
+    let html = '<table><thead><tr><th>Method</th><th>F1 ↑</th><th>Trans. ↓</th><th>Rot. ↓</th></tr></thead><tbody>';
     sd.algorithms.forEach(a => {
       const m = a.metrics || {};
       const borderLeft = `border-left:3px solid rgb(${a.color.join(',')})`;
       html += `<tr style="${borderLeft}">`;
       html += `<td>${a.paper_name}</td>`;
-      html += `<td>${fmt(m.coverage_iou)}</td>`;
       html += `<td>${fmt(m.soft_f1)}</td>`;
       html += `<td>${fmtDist(m.trans_error)}</td>`;
       html += `<td>${fmtAngle(m.rot_error)}</td>`;

@@ -13,6 +13,16 @@
        academic project-page look (Nerfies / similar). -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" />
   <link rel="stylesheet" href="static/css/style.css" />
+
+  <!-- Three.js for gallery 3D viewer -->
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.168.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.168.0/examples/jsm/"
+    }
+  }
+  </script>
 </head>
 <body>
 
@@ -164,6 +174,69 @@ Vision-Language Active Perception<!--/span-->
   </div>
 </section>
 
+<!-- ===================== Gallery ===================== -->
+<section id="gallery" class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Experiment Gallery</h2>
+    <p class="has-text-centered" style="color: var(--ip-muted); margin-bottom: 1.5rem;">
+      Interactive 3D visualization of predicted camera poses from four methods
+      on indoor active perception benchmarks. Orbit to explore the scene.
+    </p>
+
+    <div class="gallery-card">
+      <!-- Controls -->
+      <div class="gallery-controls">
+        <label class="gallery-ctrl-label">Dataset
+          <select id="gallery-dataset" aria-label="Dataset"></select>
+        </label>
+        <label class="gallery-ctrl-label">Case
+          <span class="gallery-case-input-wrap">
+            <input id="gallery-case" type="number" min="1" value="1" aria-label="Case index" />
+            <span id="gallery-case-max" class="gallery-case-max">/ 0</span>
+          </span>
+        </label>
+        <label class="gallery-ctrl-label gallery-ctrl-inline">
+          <input id="gallery-bg-toggle" type="checkbox" /> Light bg
+        </label>
+        <label class="gallery-ctrl-label">Point size
+          <span class="gallery-slider-wrap">
+            <input id="gallery-point-size" type="range" />
+            <span id="gallery-point-size-val" class="gallery-slider-val"></span>
+          </span>
+        </label>
+      </div>
+
+      <!-- Instruction -->
+      <div class="gallery-instruction">
+        <strong>Instruction:</strong>
+        <span id="gallery-instruction-text"></span>
+      </div>
+
+      <!-- 3D Viewer -->
+      <div class="gallery-viewer-wrap">
+        <canvas id="gallery-canvas"></canvas>
+        <div id="gallery-legend" class="gallery-legend"></div>
+        <div id="gallery-loading" class="gallery-loading" hidden>Loading…</div>
+      </div>
+
+      <!-- Images -->
+      <div class="gallery-images">
+        <div class="gallery-image-group">
+          <div class="gallery-image-label">Input Views</div>
+          <div class="gallery-image-row" id="gallery-input-images"></div>
+        </div>
+        <div class="gallery-image-group">
+          <div class="gallery-image-label">Predicted Views</div>
+          <div class="gallery-image-row" id="gallery-render-images"></div>
+        </div>
+      </div>
+
+      <!-- Metrics -->
+      <div id="gallery-metrics" class="gallery-metrics" hidden></div>
+    </div>
+  </div>
+</section>
+
 <!-- ===================== Abstract ===================== -->
 <section class="section abstract">
   <div class="container is-max-desktop">
@@ -184,5 +257,6 @@ Vision-Language Active Perception<!--/span-->
 
 <script src="static/js/config.js"></script>
 <script src="static/js/demo.js"></script>
+<script type="module" src="static/js/gallery.js"></script>
 </body>
 </html>

@@ -1,0 +1,850 @@
+{
+  "cases": [
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_094023_d5c0f5",
+      "instruction": "check the surface of the nightstand beside bed.",
+      "path": "hssd/20260430_094023_d5c0f5"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_094731_2af496",
+      "instruction": "Look at the monitor screen closely",
+      "path": "hssd/20260430_094731_2af496"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_095434_477f37",
+      "instruction": "Inspect the handle of the door.",
+      "path": "hssd/20260430_095434_477f37"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_095644_fc7e04",
+      "instruction": "Peek inside the sink",
+      "path": "hssd/20260430_095644_fc7e04"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_100329_06bbf4",
+      "instruction": "Look at the upper shelf",
+      "path": "hssd/20260430_100329_06bbf4"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_104425_125605",
+      "instruction": "Peek inside thw washing machine",
+      "path": "hssd/20260430_104425_125605"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_104932_553a6b",
+      "instruction": "look at the night stand beside the bed",
+      "path": "hssd/20260430_104932_553a6b"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_105153_ded4d6",
+      "instruction": "Look closely to the control panel of the washing machine",
+      "path": "hssd/20260430_105153_ded4d6"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_112720_034d97",
+      "instruction": "Peek beneath the sofa",
+      "path": "hssd/20260430_112720_034d97"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_113825_bc5b4f",
+      "instruction": "Inspect the what is on top of the closet",
+      "path": "hssd/20260430_113825_bc5b4f"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260430_114009_513b09",
+      "instruction": "Check the trash inside the trash bin",
+      "path": "hssd/20260430_114009_513b09"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260501_123420_96d9ba",
+      "instruction": "Prepare to open the oven",
+      "path": "hssd/20260501_123420_96d9ba"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260501_123810_19cca8",
+      "instruction": "Check the content inside the top cabinet",
+      "path": "hssd/20260501_123810_19cca8"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260501_124002_03e019",
+      "instruction": "Look closely to the upper tower on the tower rack",
+      "path": "hssd/20260501_124002_03e019"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260501_125718_a323d2",
+      "instruction": "Peek beneath the coffee table",
+      "path": "hssd/20260501_125718_a323d2"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260501_130922_6184ca",
+      "instruction": "Look at the television screen from the front",
+      "path": "hssd/20260501_130922_6184ca"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260501_132128_719825",
+      "instruction": "Move closely to look at the plant behind the bed.",
+      "path": "hssd/20260501_132128_719825"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_074448_6310f9",
+      "instruction": "Prepare to make coffee",
+      "path": "hssd/20260503_074448_6310f9"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_074801_6647a0",
+      "instruction": "Prepare to lift the left pillow on the bed",
+      "path": "hssd/20260503_074801_6647a0"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_081108_b5dc95",
+      "instruction": "Prepare to open the drawers of the console table.",
+      "path": "hssd/20260503_081108_b5dc95"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_081351_057892",
+      "instruction": "Check the object on the TV stand",
+      "path": "hssd/20260503_081351_057892"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_081645_6ea2b1",
+      "instruction": "Check the trash can below the table",
+      "path": "hssd/20260503_081645_6ea2b1"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_082239_49d79f",
+      "instruction": "Inspect the dining table surface from above",
+      "path": "hssd/20260503_082239_49d79f"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_082526_348359",
+      "instruction": "Look at the top of the toilet tank",
+      "path": "hssd/20260503_082526_348359"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_083254_01ba01",
+      "instruction": "Look inside the washbasin from above",
+      "path": "hssd/20260503_083254_01ba01"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_083833_641c0c",
+      "instruction": "Look at the door handle on the closed door",
+      "path": "hssd/20260503_083833_641c0c"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_084534_8c5a87",
+      "instruction": "Check the trash can behind the console table",
+      "path": "hssd/20260503_084534_8c5a87"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_084850_e99c3d",
+      "instruction": "Look inside the microwave",
+      "path": "hssd/20260503_084850_e99c3d"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_085257_3a19ac",
+      "instruction": "Prepare to open the cabinet door",
+      "path": "hssd/20260503_085257_3a19ac"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_091728_c25ba5",
+      "instruction": "Inspect the toilet paper roll closely",
+      "path": "hssd/20260503_091728_c25ba5"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_092052_fe33c6",
+      "instruction": "Look at the painting above the armchair",
+      "path": "hssd/20260503_092052_fe33c6"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_092554_52f152",
+      "instruction": "Move closer to the bottle next to the washbasin",
+      "path": "hssd/20260503_092554_52f152"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_093357_fbddf2",
+      "instruction": "Move closer to the cushion on the armchair",
+      "path": "hssd/20260503_093357_fbddf2"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_093740_ea05c0",
+      "instruction": "Look at the potted plant behind the armchair in a top-down view",
+      "path": "hssd/20260503_093740_ea05c0"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_094816_4c8ec3",
+      "instruction": "Check the surface of the dressing table",
+      "path": "hssd/20260503_094816_4c8ec3"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_095946_0f0bb2",
+      "instruction": "Check the toaster on the countertop",
+      "path": "hssd/20260503_095946_0f0bb2"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_113302_41a0f1",
+      "instruction": "Look at the stove surface at the cooking area",
+      "path": "hssd/20260503_113302_41a0f1"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_120135_bf9bd8",
+      "instruction": "Inspect the surface of the dining table",
+      "path": "hssd/20260503_120135_bf9bd8"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_120559_af217a",
+      "instruction": "Prepare to open the door",
+      "path": "hssd/20260503_120559_af217a"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_120856_29d1c0",
+      "instruction": "Check the range hood",
+      "path": "hssd/20260503_120856_29d1c0"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260503_192112_0d5093",
+      "instruction": "Prepare to open the top drawer of the chest of drawers",
+      "path": "hssd/20260503_192112_0d5093"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_081610_38040e",
+      "instruction": "Look closely to the yellow cushion",
+      "path": "hssd/20260504_081610_38040e"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_082043_8fcc7f",
+      "instruction": "Peek inside the sink from above",
+      "path": "hssd/20260504_082043_8fcc7f"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_082300_f43ca9",
+      "instruction": "Check the faucet closely",
+      "path": "hssd/20260504_082300_f43ca9"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_082456_ae98e0",
+      "instruction": "Peek inside the washing machine from front",
+      "path": "hssd/20260504_082456_ae98e0"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_082706_26f161",
+      "instruction": "Look at the picture frame above the bed",
+      "path": "hssd/20260504_082706_26f161"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_094333_b1ae72",
+      "instruction": "Check the shelf above the sink",
+      "path": "hssd/20260504_094333_b1ae72"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_094535_456f82",
+      "instruction": "Check the items on top of the refrigerator",
+      "path": "hssd/20260504_094535_456f82"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_100101_a08af6",
+      "instruction": "Move closer to the towel hanging above the bathtub",
+      "path": "hssd/20260504_100101_a08af6"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_100249_6f6f9e",
+      "instruction": "Prepare to open the drawer",
+      "path": "hssd/20260504_100249_6f6f9e"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_100705_426877",
+      "instruction": "Prepare to open the cabinet below the sink",
+      "path": "hssd/20260504_100705_426877"
+    },
+    {
+      "dataset": "hssd",
+      "data_name": "20260504_101444_aa44c3",
+      "instruction": "Move closer to the hand wash bottle",
+      "path": "hssd/20260504_101444_aa44c3"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_091736_282979",
+      "instruction": "Look at the potted plant between the sofa and fireplace",
+      "path": "replica/apartment_0_20260501_091736_282979"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_092751_148708",
+      "instruction": "Look at the mirror on the mantelpiece closely",
+      "path": "replica/apartment_0_20260501_092751_148708"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_092923_961797",
+      "instruction": "Check the table lamp",
+      "path": "replica/apartment_0_20260501_092923_961797"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_093311_267465",
+      "instruction": "Look at the vase on the glass dining table",
+      "path": "replica/apartment_0_20260501_093311_267465"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_093509_976459",
+      "instruction": "Look at the air conditioning unit mounted on the wall",
+      "path": "replica/apartment_0_20260501_093509_976459"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_102558_702126",
+      "instruction": "Look at the yellow mug on the countertop",
+      "path": "replica/apartment_0_20260501_102558_702126"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_102822_700785",
+      "instruction": "Look at the top of the refrigerator",
+      "path": "replica/apartment_0_20260501_102822_700785"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_104409_872763",
+      "instruction": "Look inside the sink basin from above",
+      "path": "replica/apartment_0_20260501_104409_872763"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_105001_581622",
+      "instruction": "Look at the cookbook on the countertop",
+      "path": "replica/apartment_0_20260501_105001_581622"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_105939_964303",
+      "instruction": "Inspect the globe on the top shelf",
+      "path": "replica/apartment_0_20260501_105939_964303"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_110143_629243",
+      "instruction": "Move closer to the yellow vase on the middle shelf",
+      "path": "replica/apartment_0_20260501_110143_629243"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_110250_270867",
+      "instruction": "Look at the leaves of the tall potted plant",
+      "path": "replica/apartment_0_20260501_110250_270867"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_110651_228727",
+      "instruction": "Check the cabinet below the sink",
+      "path": "replica/apartment_0_20260501_110651_228727"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_111033_784739",
+      "instruction": "Look at the bowl of fruit between the two chairs",
+      "path": "replica/apartment_0_20260501_111033_784739"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260501_111510_673651",
+      "instruction": "Look at the teddy bear sitting on the chair",
+      "path": "replica/apartment_0_20260501_111510_673651"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_0_20260502_090637_332602",
+      "instruction": "Inspect the globe on the top shelf",
+      "path": "replica/apartment_0_20260502_090637_332602"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_084813_621954",
+      "instruction": "Look at the round mirror on the wall",
+      "path": "replica/apartment_1_20260502_084813_621954"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_084954_830757",
+      "instruction": "Inspect the metallic bag on the dresser top",
+      "path": "replica/apartment_1_20260502_084954_830757"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_085134_172222",
+      "instruction": "Prepare to open one of the drawers in the bottom row",
+      "path": "replica/apartment_1_20260502_085134_172222"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_085320_130378",
+      "instruction": "check the wall-mounted device closely",
+      "path": "replica/apartment_1_20260502_085320_130378"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_085730_344655",
+      "instruction": "Check the flat screen TV mounted on the wall above the table",
+      "path": "replica/apartment_1_20260502_085730_344655"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_085959_486866",
+      "instruction": "Inspect the chess pieces on the console table",
+      "path": "replica/apartment_1_20260502_085959_486866"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_095227_044617",
+      "instruction": "Inspect the window blinds next to the plant",
+      "path": "replica/apartment_1_20260502_095227_044617"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_1_20260502_095315_993648",
+      "instruction": "Look at the potted plant on the coffee table",
+      "path": "replica/apartment_1_20260502_095315_993648"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_2_20260502_095529_130357",
+      "instruction": "Check the window blinds",
+      "path": "replica/apartment_2_20260502_095529_130357"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_2_20260502_100834_176206",
+      "instruction": "Prepare to grab the pillow on the armchair",
+      "path": "replica/apartment_2_20260502_100834_176206"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_2_20260502_100935_897315",
+      "instruction": "Look closely at the vase next to the sofa",
+      "path": "replica/apartment_2_20260502_100935_897315"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_2_20260502_101712_816431",
+      "instruction": "inspect the phota on the wall",
+      "path": "replica/apartment_2_20260502_101712_816431"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_2_20260502_101852_153865",
+      "instruction": "Look at the painting behind the chair",
+      "path": "replica/apartment_2_20260502_101852_153865"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "apartment_2_20260502_102012_037298",
+      "instruction": "Look at the painting opposite the chair",
+      "path": "replica/apartment_2_20260502_102012_037298"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_105358_225982",
+      "instruction": "Look at the wall-mounted TV",
+      "path": "replica/frl_apartment_0_20260502_105358_225982"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_105908_149666",
+      "instruction": "Inspect the potted plant between the white and red walls",
+      "path": "replica/frl_apartment_0_20260502_105908_149666"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_110012_703046",
+      "instruction": "Check the remote controls and laptop on the TV stand",
+      "path": "replica/frl_apartment_0_20260502_110012_703046"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_110145_376801",
+      "instruction": "Look at the blue blanket on the armchair",
+      "path": "replica/frl_apartment_0_20260502_110145_376801"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_114752_559024",
+      "instruction": "Prepare to open the refrigerator",
+      "path": "replica/frl_apartment_0_20260502_114752_559024"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_114908_739768",
+      "instruction": "Look at the stand mixer from the front",
+      "path": "replica/frl_apartment_0_20260502_114908_739768"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_115401_914400",
+      "instruction": "take a look at what's inside the sink",
+      "path": "replica/frl_apartment_0_20260502_115401_914400"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_115525_647615",
+      "instruction": "Look at the helmet on top of the shelf",
+      "path": "replica/frl_apartment_0_20260502_115525_647615"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_115714_627011",
+      "instruction": "look at the trash bin",
+      "path": "replica/frl_apartment_0_20260502_115714_627011"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_115927_915379",
+      "instruction": "inspect the potted plants on the stairs",
+      "path": "replica/frl_apartment_0_20260502_115927_915379"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_0_20260502_120008_396613",
+      "instruction": "Look at the handlebars of the bicycle",
+      "path": "replica/frl_apartment_0_20260502_120008_396613"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_2_20260504_071901_348080",
+      "instruction": "Move closer to the trash bin",
+      "path": "replica/frl_apartment_2_20260504_071901_348080"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_2_20260504_072131_167560",
+      "instruction": "Look at the lamp on the table",
+      "path": "replica/frl_apartment_2_20260504_072131_167560"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_2_20260504_072456_495603",
+      "instruction": "Look at the tablet on the TV stand",
+      "path": "replica/frl_apartment_2_20260504_072456_495603"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_072720_262056",
+      "instruction": "Look at the pillows on the sofa",
+      "path": "replica/frl_apartment_3_20260504_072720_262056"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_072913_806483",
+      "instruction": "Check the potted plant next to the TV",
+      "path": "replica/frl_apartment_3_20260504_072913_806483"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_073045_901325",
+      "instruction": "Peek inside the cabinet behind the bicycle",
+      "path": "replica/frl_apartment_3_20260504_073045_901325"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_073221_565919",
+      "instruction": "Check the blue blanket on the armchair",
+      "path": "replica/frl_apartment_3_20260504_073221_565919"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_073511_258048",
+      "instruction": "Look at the woven basket on the top shelf",
+      "path": "replica/frl_apartment_3_20260504_073511_258048"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_073551_814894",
+      "instruction": "check the door next to the shelf",
+      "path": "replica/frl_apartment_3_20260504_073551_814894"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_073712_124595",
+      "instruction": "Move closer to the large cushion in the corner",
+      "path": "replica/frl_apartment_3_20260504_073712_124595"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_073817_009991",
+      "instruction": "Inspect the bicycle seat",
+      "path": "replica/frl_apartment_3_20260504_073817_009991"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_3_20260504_074706_646576",
+      "instruction": "Look inside the cabinet through the glass doors",
+      "path": "replica/frl_apartment_3_20260504_074706_646576"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_4_20260504_075246_260708",
+      "instruction": "Look at the stack of plates and bowls on the countertop",
+      "path": "replica/frl_apartment_4_20260504_075246_260708"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_4_20260504_075347_492646",
+      "instruction": "Inspect the wooden cabinet front below the TV",
+      "path": "replica/frl_apartment_4_20260504_075347_492646"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_4_20260504_075502_344648",
+      "instruction": "Check the shoes on the lower tiers of the rack",
+      "path": "replica/frl_apartment_4_20260504_075502_344648"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_4_20260504_075646_023395",
+      "instruction": "Look closely at the orange pillow on the armchair",
+      "path": "replica/frl_apartment_4_20260504_075646_023395"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_4_20260504_075842_394244",
+      "instruction": "Look inside the woven basket on the top shelf from the front",
+      "path": "replica/frl_apartment_4_20260504_075842_394244"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_5_20260504_080347_259793",
+      "instruction": "inspect the wooden table near the bicycle",
+      "path": "replica/frl_apartment_5_20260504_080347_259793"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_5_20260504_080855_783251",
+      "instruction": "Check the yellow stand mixer next to the sink",
+      "path": "replica/frl_apartment_5_20260504_080855_783251"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "frl_apartment_5_20260504_080934_240374",
+      "instruction": "Look inside the sink basin from above",
+      "path": "replica/frl_apartment_5_20260504_080934_240374"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_072922_639551",
+      "instruction": "Look at the coffee machine closely",
+      "path": "replica/hotel_0_20260501_072922_639551"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_073518_831548",
+      "instruction": "Look at the seat of the orange armchair",
+      "path": "replica/hotel_0_20260501_073518_831548"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_074613_906825",
+      "instruction": "Look inside the sink basin from above",
+      "path": "replica/hotel_0_20260501_074613_906825"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_074837_332140",
+      "instruction": "Prepare to slide open the wardrobe door",
+      "path": "replica/hotel_0_20260501_074837_332140"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_075052_557440",
+      "instruction": "Prepare to slide open the wardrobe door",
+      "path": "replica/hotel_0_20260501_075052_557440"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_075332_988061",
+      "instruction": "Look inside the trash bin below the desk",
+      "path": "replica/hotel_0_20260501_075332_988061"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_075653_161152",
+      "instruction": "Look at the electric kettle on the countertop",
+      "path": "replica/hotel_0_20260501_075653_161152"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_080129_505033",
+      "instruction": "Look at the alarm clock on the nightstand",
+      "path": "replica/hotel_0_20260501_080129_505033"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_081432_829400",
+      "instruction": "Inspect the magazine on the nightstand",
+      "path": "replica/hotel_0_20260501_081432_829400"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_081739_516968",
+      "instruction": "Look at the power outlet behind the nightstand",
+      "path": "replica/hotel_0_20260501_081739_516968"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "hotel_0_20260501_082150_341903",
+      "instruction": "Look at the framed picture on the wooden wall",
+      "path": "replica/hotel_0_20260501_082150_341903"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_0_20260504_085149_505371",
+      "instruction": "Inspect the potted plant closely",
+      "path": "replica/office_0_20260504_085149_505371"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_0_20260504_085223_659794",
+      "instruction": "Look at the power outlet below the window",
+      "path": "replica/office_0_20260504_085223_659794"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_0_20260504_085404_416797",
+      "instruction": "Look inside the blue recycling bin",
+      "path": "replica/office_0_20260504_085404_416797"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_2_20260504_093121_887987",
+      "instruction": "Look at the round clock on the wall",
+      "path": "replica/office_2_20260504_093121_887987"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_2_20260504_094810_877537",
+      "instruction": "peek at the poster on the wall",
+      "path": "replica/office_2_20260504_094810_877537"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_2_20260504_094918_219884",
+      "instruction": "Look at the checkered cushion on the middle ottoman from above",
+      "path": "replica/office_2_20260504_094918_219884"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_2_20260504_095128_530984",
+      "instruction": "Check the small round table beside the sofa",
+      "path": "replica/office_2_20260504_095128_530984"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_2_20260504_095257_812900",
+      "instruction": "Look at the seat in the corner",
+      "path": "replica/office_2_20260504_095257_812900"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_3_20260504_100649_130613",
+      "instruction": "Inspect the world map displays from below",
+      "path": "replica/office_3_20260504_100649_130613"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "office_3_20260504_100728_781361",
+      "instruction": "Look at the blue armchair from the front",
+      "path": "replica/office_3_20260504_100728_781361"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "room_0_20260504_101047_573920",
+      "instruction": "peek at the phota on the wall",
+      "path": "replica/room_0_20260504_101047_573920"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "room_0_20260504_101047_575588",
+      "instruction": "peek at the phota on the wall",
+      "path": "replica/room_0_20260504_101047_575588"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "room_0_20260504_101259_269867",
+      "instruction": "Prepare to open the cabinet door below the lantern",
+      "path": "replica/room_0_20260504_101259_269867"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "room_0_20260504_101355_014930",
+      "instruction": "Look at the potted plant on the upper table",
+      "path": "replica/room_0_20260504_101355_014930"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "room_1_20260504_101730_006132",
+      "instruction": "Focus on the wooden frame mounted on the wall above the dresser",
+      "path": "replica/room_1_20260504_101730_006132"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "room_1_20260504_101849_841052",
+      "instruction": "Look at the plant stems inside the textured vase",
+      "path": "replica/room_1_20260504_101849_841052"
+    },
+    {
+      "dataset": "replica",
+      "data_name": "room_1_20260504_102030_085766",
+      "instruction": "Prepare to open the top drawer under the wooden frame",
+      "path": "replica/room_1_20260504_102030_085766"
+    }
+  ]
+}

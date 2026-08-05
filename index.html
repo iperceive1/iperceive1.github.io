@@ -6,7 +6,8 @@
   <meta name="theme-color" content="#1f2937" />
 
   <title>I-Perceive — Anonymous project page</title>
-  <meta name="description" content="Anonymous project page for the I-Perceive paper, including an online inference demo." />
+  <!-- meta name="description" content="Anonymous project page for the I-Perceive paper, including an online inference demo." / -->
+  <meta name="description" content="Anonymous project page for the I-Perceive paper." />
   <meta name="robots" content="noindex, nofollow" />
 
   <!-- Bulma keeps the typography and layout close to the standard
@@ -52,12 +53,12 @@ Vision-Language Active Perception<!--/span-->
             <span>Code</span>
           </a>
         </span>
-        <span class="link-block">
+        <!-- span class="link-block">
           <a href="#demo" class="button is-link is-rounded">
             <span class="icon"><i>▶</i></span>
             <span>Live demo</span>
           </a>
-        </span>
+        </span -->
       </div>
 
       <div class="anon-banner">
@@ -84,7 +85,7 @@ Vision-Language Active Perception<!--/span-->
 </section>
 
 <!-- ===================== Online Demo ===================== -->
-<section id="demo" class="section">
+<!-- section id="demo" class="section">
   <div class="container is-max-desktop">
     <h2 class="title is-3 has-text-centered">Online demo</h2>
     <p class="has-text-centered" style="color: var(--ip-muted); margin-bottom: 1.5rem;">
@@ -95,7 +96,7 @@ Vision-Language Active Perception<!--/span-->
     </p>
 
     <div class="demo-card">
-      <!-- Image source -->
+      
       <div class="demo-field">
         <label class="demo-field-label">1. Choose images</label>
         <div class="demo-actions">
@@ -113,7 +114,7 @@ Vision-Language Active Perception<!--/span-->
         </p>
       </div>
 
-      <!-- Preview thumbs -->
+      
       <div class="demo-field">
         <label class="demo-field-label">2. Pick the start frame</label>
         <div id="thumbs" class="thumbs">
@@ -122,14 +123,14 @@ Vision-Language Active Perception<!--/span-->
         <p class="demo-hint">Click a thumbnail to set it as the start frame (★).</p>
       </div>
 
-      <!-- Instruction -->
+      
       <div class="demo-field">
         <label class="demo-field-label" for="instruction">3. Instruction</label>
         <textarea id="instruction" class="demo-input" rows="2"
           placeholder="e.g. Open the top drawer under the table"></textarea>
       </div>
 
-      <!-- Start image canvas + optional point -->
+      
       <div class="demo-field">
         <label class="demo-field-label">4. (Optional) Anchor point</label>
         <div class="demo-actions" style="margin-bottom: 0.6rem;">
@@ -150,20 +151,20 @@ Vision-Language Active Perception<!--/span-->
         </div>
       </div>
 
-      <!-- Submit -->
+      
       <div class="demo-field" style="margin-bottom:0;">
         <button id="btn-submit" class="btn-primary">Run inference</button>
         <div id="status" class="demo-status" hidden></div>
       </div>
 
-      <!-- Viewer panel -->
+      
       <div id="viewer-panel" class="viewer-panel" hidden>
         <div class="viewer-header">
           <strong>3D viewer</strong>
           <a id="open-viser" href="#" target="_blank" rel="noopener" class="btn-link">
             Open in new tab ↗
           </a>
-          <!-- Do not open in new tab. Use the embedded viewer only. -->
+          
         </div>
         <div class="viewer-frame-wrap">
           <iframe id="viser-frame" src="about:blank" allow="fullscreen"></iframe>
@@ -171,7 +172,7 @@ Vision-Language Active Perception<!--/span-->
       </div>
     </div>
 
-    <!-- Notes -->
+    
     <div class="notes" style="margin-top: 1.25rem;">
       <ul>
         <li>
@@ -183,7 +184,7 @@ Vision-Language Active Perception<!--/span-->
       </ul>
     </div>
   </div>
-</section>
+</section -->
 
 <!-- ===================== Gallery ===================== -->
 <section id="gallery" class="section">
